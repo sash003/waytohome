@@ -1,7 +1,7 @@
 <?php
-
+echo 1;
 //include_once "/ajaxController.php";
-
+/*
 error_reporting(E_ALL);
 
 if(isset($_POST['name'])) 
@@ -45,3 +45,4 @@ $router = new \components\Router();
 $router->run();
   
 ob_end_flush();
+*/
